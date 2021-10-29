@@ -1,0 +1,13 @@
+#!/bin/bash
+echo CrashHandler v0.1a Starting Up...
+echo Made for Musica.
+echo -------------------------------------
+echo INIT> Starting Musica...
+npm start 
+echo WARN> Crash detected!
+echo WARN> Restarting bot...
+while :
+do
+  node index.js
+  echo WARN> Crash detected!
+done

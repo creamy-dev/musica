@@ -1,0 +1,6 @@
+{
+  "name": "Musica",
+  "description": "A music bot that uses Soundcloud",
+  "repository": "https://replit.com/@NisalaYogaraj/MusicaFull",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
